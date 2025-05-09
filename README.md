@@ -1,2 +1,2 @@
 # NETFLIX MOVIES AND TV SHOWS DATA ANALYST
-![NETFLIX_LOGO]()
+![NETFLIX_LOGO](https://github.com/Mainabryan/NETFLIX-_PROJECT_-SQL-1/blob/main/NETFLIX%202.jpeg)
