@@ -32,8 +32,19 @@ Dataset link:https://www.kaggle and solutions.com/datasets/shivamb/netflix-shows
 
 
 
-Grouped Netflix titles by type and rating to see how content is distributed across different age categories and formats.
+ # 2.Grouped Netflix titles by type and rating to see how content is distributed across different age categories and formats.
 ![image](https://github.com/user-attachments/assets/7e0e1350-6f5c-4c83-9506-40bb27d0437c)
+
+
+# 3.find the 10 most common rating for movies and TV shows
+![image](https://github.com/user-attachments/assets/ad33e364-aeac-42e5-8fef-9d7c966b9384)
+
+
+# 4 list all the movies produced in 2020
+![image](https://github.com/user-attachments/assets/acced2d2-7d88-4faf-9d32-972519af77ed)
+
+
+
 
 
 
