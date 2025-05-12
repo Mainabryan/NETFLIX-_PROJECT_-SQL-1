@@ -43,6 +43,11 @@ Dataset link:https://www.kaggle and solutions.com/datasets/shivamb/netflix-shows
 # 4 list all the movies produced in 2020
 ![image](https://github.com/user-attachments/assets/acced2d2-7d88-4faf-9d32-972519af77ed)
 
+# 5 identify the longest movie or tv shows  duration
+![image](![image](https://github.com/user-attachments/assets/6dba75a8-6a55-4d10-81c5-3a36e9a6c9f9)
+
+
+
 
 
 
